@@ -1,14 +1,28 @@
 {
-  "users": [
-    { "id": 1, "name": "John" },
-    { "id": 2, "name": "Tom" },
-    { "id": 3, "name": "Dave" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "items": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "nickName": "Johny",
+      "address1": "1234 Sunset Blvd.",
+      "address2": "Apt 100",
+      "city": "Los Angeles",
+      "region": "California",
+      "postal": "98765",
+      "country": "United States",
+      "email": "john.doe@abc.com
+    },
+    {
+      "firstName": "Tom",
+      "lastName": "Smith",
+      "nickName": "Tomy",
+      "address1": "123 5th Ave",
+      "address2": "10c",
+      "city": "New York",
+      "region": "New York",
+      "postal": "54321",
+      "country": "USA",
+      "email": "tom.smith@qwerty.com
+    },
+  ]
 }
