@@ -37,7 +37,7 @@
             "firstName": "Jane",
             "lastName": "Doe",
             "nickname": null,
-            "email": "jane@asdfgh.com",
+            "email": null,
             "address": {
                 "address1": "101 Jefferson St",
                 "address2": null,
@@ -68,11 +68,11 @@
             "id": "5",
             "firstName": "Tom",
             "lastName": "Smith",
-            "nickname": "Tommy",
+            "nickname": null,
             "email": "tom.smith@qwerty.com",
             "address": {
-                "address1": "123 5th Ave",
-                "address2": "Unit 45",
+                "address1": null,
+                "address2": null,
                 "city": "New York",
                 "state": "NY",
                 "region": "Hudson Valley",
