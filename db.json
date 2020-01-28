@@ -18,10 +18,10 @@
         },
         {
             "id": "2",
-            "firstName": "Tom",
+            "firstName": "Dave",
             "lastName": "Smith",
             "nickname": "Tommy",
-            "email": "tom.smith@qwerty.com",
+            "email": "dave.smith@qwerty.com",
             "address": {
                 "address1": "123 5th Ave",
                 "address2": "Unit 45",
@@ -50,7 +50,7 @@
         },
         {
             "id": "4",
-            "firstName": "John",
+            "firstName": null,
             "lastName": "Doe",
             "nickname": "Johny",
             "email": "john.doe@abc.com",
@@ -66,8 +66,8 @@
         },
         {
             "id": "5",
-            "firstName": "Tom",
-            "lastName": "Smith",
+            "firstName": null,
+            "lastName": null,
             "nickname": null,
             "email": "tom.smith@qwerty.com",
             "address": {
@@ -93,7 +93,7 @@
                 "state": "OH",
                 "region": null,
                 "postalCode": "12345",
-                "country": "USA"
+                "country": null
             }
         },
         {
@@ -135,9 +135,9 @@
             "nickname": null,
             "email": "jane@asdfgh.com",
             "address": {
-                "address1": "101 Jefferson St",
-                "address2": null,
-                "city": "Port Clinton",
+                "address1": null,
+                "address2": "Unit 4A",
+                "city": null,
                 "state": "OH",
                 "region": null,
                 "postalCode": "12345",
