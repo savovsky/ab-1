@@ -57,10 +57,10 @@
             "address": {
                 "address1": "1234 Sunset Blvd",
                 "address2": "Apt 100",
-                "city": "Los Angeles",
-                "state": "CA",
+                "city": null,
+                "state": null,
                 "region": "Hollywood",
-                "postalCode": "98765",
+                "postalCode": null,
                 "country": "United States"
             }
         },
