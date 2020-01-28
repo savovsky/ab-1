@@ -11,7 +11,7 @@
                 "address2": "Apt 100",
                 "city": "Los Angeles",
                 "state": "CA",
-                "region": "Hollywood",
+                "region": null,
                 "postalCode": "98765",
                 "country": "United States"
             }
@@ -27,7 +27,7 @@
                 "address2": "Unit 45",
                 "city": "New York",
                 "state": "NY",
-                "region": "Hudson Valley",
+                "region": null,
                 "postalCode": "54321",
                 "country": "USA"
             }
@@ -77,7 +77,7 @@
                 "state": "NY",
                 "region": "Hudson Valley",
                 "postalCode": "54321",
-                "country": "USA"
+                "country": null
             }
         },
         {
@@ -87,9 +87,9 @@
             "nickname": null,
             "email": "jane@asdfgh.com",
             "address": {
-                "address1": "101 Jefferson St",
-                "address2": null,
-                "city": "Port Clinton",
+                "address1": null,
+                "address2": "#111",
+                "city": null,
                 "state": "OH",
                 "region": null,
                 "postalCode": "12345",
@@ -124,7 +124,7 @@
                 "city": "Port Clinton",
                 "state": "OH",
                 "region": null,
-                "postalCode": "12345",
+                "postalCode": null,
                 "country": "USA"
             }
         },
