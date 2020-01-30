@@ -66,34 +66,34 @@
         },
         {
             "id": "5",
-            "firstName": null,
-            "lastName": null,
-            "nickname": "Nick",
-            "email": "tom.smith@qwerty.com",
+            "firstName": "Dave",
+            "lastName": "Smith",
+            "nickname": "Tommy",
+            "email": "dave.smith@qwerty.com",
             "address": {
-                "address1": null,
-                "address2": null,
+                "address1": "123 5th Ave",
+                "address2": "Unit 45",
                 "city": "New York",
                 "state": "NY",
-                "region": "Hudson Valley",
+                "region": null,
                 "postalCode": "54321",
-                "country": null
+                "country": "USA"
             }
         },
         {
             "id": "6",
-            "firstName": "Jane",
-            "lastName": "Doe",
-            "nickname": null,
-            "email": null,
+            "firstName": "Dave",
+            "lastName": "Smith",
+            "nickname": "Tommy",
+            "email": "dave.smith@qwerty.com",
             "address": {
-                "address1": null,
-                "address2": "#111",
-                "city": null,
-                "state": "OH",
+                "address1": "123 5th Ave",
+                "address2": "Unit 45",
+                "city": "New York",
+                "state": "NY",
                 "region": null,
-                "postalCode": "12345",
-                "country": null
+                "postalCode": "54321",
+                "country": "USA"
             }
         },
         {
@@ -114,18 +114,18 @@
         },
         {
             "id": "8",
-            "firstName": null,
-            "lastName": null,
-            "nickname": null,
-            "email": null,
+            "firstName": "Dave",
+            "lastName": "Smith",
+            "nickname": "Tommy",
+            "email": "dave.smith@qwerty.com",
             "address": {
-                "address1": null,
-                "address2": null,
-                "city": null,
-                "state": null,
+                "address1": "123 5th Ave",
+                "address2": "Unit 45",
+                "city": "New York",
+                "state": "NY",
                 "region": null,
-                "postalCode": null,
-                "country": null
+                "postalCode": "54321",
+                "country": "USA"
             }
         },
         {
