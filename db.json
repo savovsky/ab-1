@@ -114,18 +114,18 @@
         },
         {
             "id": "8",
-            "firstName": "Jane",
-            "lastName": "Doe",
+            "firstName": null,
+            "lastName": null,
             "nickname": null,
-            "email": "jane@asdfgh.com",
+            "email": null,
             "address": {
-                "address1": "101 Jefferson St",
+                "address1": null,
                 "address2": null,
-                "city": "Port Clinton",
-                "state": "OH",
+                "city": null,
+                "state": null,
                 "region": null,
                 "postalCode": null,
-                "country": "USA"
+                "country": null
             }
         },
         {
