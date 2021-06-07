@@ -34,11 +34,4 @@
     "sflyCountryCode": "USA",
     "countryCode": null
   },
-  {
-    "regionId": "AR",
-    "description": "Arkansas",
-    "active": true,
-    "sflyCountryCode": "USA",
-    "countryCode": null
-  },
 ]
